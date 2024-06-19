@@ -3,19 +3,20 @@ In today's digital world, it's crucial to keep your devices safe from cyber thre
 In this blog, we will show you step-by-step instructions on how to activate your McAfee antivirus from macafee.com/activate. Making it easy for anyone to understand. Our detailed instructions will give you the confidence to protect your digital devices, regardless of your level of tech knowledge. 
  
 ## Download & Install McAfee Activate from mcafee.com/activate 
-McAfee antivirus will help you protect your device from viruses and malware, resulting in frequent improvements in its performance. The following steps will guide you through the McAfee Activate download process from mcafee.com/activate:
-First, open the browser and visit home.mcafee.com.
-Now, log in to McAfee My Account and click on the Create Account option.
-Navigate to the My Subscription page.
-Select the product and click the Download option.
-Next, execute the downloaded setup file.
-The pop-up window will appear on your desktop. It will prompt you to authorize the software to perform modifications on your device.
-Click on the Yes tab to allow the users to begin the installation process.
-The software begins scanning your computer once the installation process is complete.
-The scanning process will be done in three different stages, i.e., application check, device check, and software check.
-After completing the scanning process, click on the Install Complete option.
-Wait a few seconds, and a welcome pop-up will appear on your desktop.
-Click on the Get Started option, and now you can easily activate the software. 
+McAfee antivirus will help you protect your device from viruses and malware, resulting in frequent improvements in its performance. The following steps will guide you through the <a href="https://mcafeeactivate748.github.io/">McAfee Activate download</a> process from mcafee.com/activate:
+
+<ul><li>First, open the browser and visit home.mcafee.com.</ul></li>
+<ul><li>Now, log in to McAfee My Account and click on the Create Account option.</ul></li>
+<ul><li>Navigate to the My Subscription page.</ul></li>
+<ul><li>Select the product and click the Download option.</ul></li>
+<ul><li>Next, execute the downloaded setup file.</ul></li>
+<ul><li>The pop-up window will appear on your desktop. It will prompt you to authorize the software to perform modifications on your device.</ul></li>
+<ul><li>Click on the Yes tab to allow the users to begin the installation process.</ul></li>
+<ul><li>The software begins scanning your computer once the installation process is complete.</ul></li>
+<ul><li>The scanning process will be done in three different stages, i.e., application check, device check, and software check.</ul></li>
+<ul><li>After completing the scanning process, click on the Install Complete option.</ul></li>
+<ul><li>Wait a few seconds, and a welcome pop-up will appear on your desktop.</ul></li>
+<ul><li>Click on the Get Started option, and now you can easily activate the software.</ul></li>
  
 ### Instructions for Activating Your McAfee Activate on a Windows Device 
 After successfully installing the software from www.mcafee.com/activate, double-click on the McAfee icon on your Window. 
