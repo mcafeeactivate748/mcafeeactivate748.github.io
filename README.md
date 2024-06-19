@@ -51,5 +51,3 @@ In this blog, we will show you step-by-step instructions on how to activate your
 <li aria-level="1">Now, type the <strong>activated McAfee 25-digit </strong>product key and activation code.</li>
 <li aria-level="1">At last, wait until the activation process is completed successfully.</li>
 </ul>
-<p><br /><br /><br /><br /><br /></p>
-<p><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
